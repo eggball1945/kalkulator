@@ -70,17 +70,18 @@ class CalculatorGrid(BoxLayout):
             self.expression = ""
         elif text == "=":
             try:
-                self.expression = str(eval(self.expression))
+                result = eval(self.expression)
+                if isinstance(result, float) and result.is_integer():
+                    result = int(result)
+                self.expression = str(result)
             except Exception:
                 self.expression = "Error"
+
         elif text == "Del":
             self.expression = self.expression[:-1]
         else:
             self.expression += text
-
         self.display.text = self.expression
-
-
 class CalculatorApp(App):
     def build(self):
         self.title = "Kalkulator"
