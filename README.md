@@ -25,7 +25,7 @@ cd calculator-kivy
 python3 -m venv kalkulator_env
 ```
 
-3. Activate the Environment
+### 3. Activate the Environment
 🔹 Linux / macOS
 ```bash
 source kalkulator_env/bin/activate
@@ -36,7 +36,7 @@ powershell
 kalkulator_env\Scripts\Activate
 ```
 
-4. Install Dependencies
+### 4. Install Dependencies
 ```bash
 pip install kivy
 ```
