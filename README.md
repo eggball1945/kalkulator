@@ -1,9 +1,3 @@
-<div align="center">
-# 🧮 **Kivy Calculator**
-**Created by Iqbal Fadilah**
-<img src="assets/preview.png" width="300" alt="App Preview"/>
-</div>
-
 ## ⭐ **About the Project**
 
 This project is a graphical calculator application built using **Python** and the **Kivy Framework**.  
