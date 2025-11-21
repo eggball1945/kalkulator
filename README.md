@@ -38,12 +38,7 @@ kalkulator_env\Scripts\Activate
 
 4. Install Dependencies
 ```bash
-pip install -r requirements.txt
-```
-
-```bash
 pip install kivy
-pip freeze > requirements.txt
 ```
 
 ▶️ Running the App
