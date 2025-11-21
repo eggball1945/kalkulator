@@ -11,12 +11,6 @@ It supports basic arithmetic operations and features a clean, responsive interfa
 - 🛡️ Error handling (e.g., divide by zero)  
 - 📱 Cross-platform (Windows, Linux, macOS, Android)
 
-## 📁 **Project Structure**
-
-calculator-kivy/
-│── kalkulator.py
-│── README.me
-
 ## 🛠️ **Installation Guide**
 
 ### **1. Clone the Repository**
