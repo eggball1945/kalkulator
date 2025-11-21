@@ -30,9 +30,9 @@ python3 -m venv kalkulator_env
 ```bash
 source kalkulator_env/bin/activate
 ```
-```bash
 🔹 Windows
 powershell
+```bash
 kalkulator_env\Scripts\Activate
 ```
 
