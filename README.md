@@ -62,7 +62,7 @@ Press = to calculate
 
 Press C to clear the display
 
-Press
+Press Del to delete
 
 <div align="center">
 💬 Author
