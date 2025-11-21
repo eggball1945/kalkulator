@@ -53,7 +53,7 @@ python3 main.py
 ```
 The calculator window should now appear on your screen.
 
-🎮 How to Use
+### 🎮 How to Use
 Tap the number buttons to enter values
 
 Use + - × ÷ to perform operations
