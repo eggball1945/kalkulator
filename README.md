@@ -15,7 +15,7 @@ It supports basic arithmetic operations and features a clean, responsive interfa
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/username/calculator-kivy.git
+git clone https://github.com/eggball1945/kalkulator.git
 cd calculator-kivy
 ```
 
